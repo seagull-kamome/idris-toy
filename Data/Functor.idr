@@ -1,4 +1,4 @@
-module Control.Functor
+module Data.Functor
 
 %access public
 %default total
