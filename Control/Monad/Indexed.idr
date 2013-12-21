@@ -1,4 +1,4 @@
-module Data.Indexed
+module Control.Monad.Indexed
 
 %access public
 %default total
